@@ -10,4 +10,5 @@ export default defineConfig({
       plugins: [tailwindcss()],
     },
   },
+  base: "/numbers-facts-gen/"
 })
