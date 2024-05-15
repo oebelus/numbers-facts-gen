@@ -10,4 +10,4 @@ This is a simple React application that generates random facts about numbers usi
 
 ## Image
 
-![Imane]("./image.png)
+![Image]("./image.png")
