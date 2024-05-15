@@ -6,3 +6,11 @@
     font-family: monospace;
     overflow: hidden;
 }
+
+.twitter {
+    transition: height 0.2s ease; /* Add smooth transition effect */
+}
+  
+.twitter:hover {
+    height: 12px; /* Adjust the height you want when hovering */
+}
